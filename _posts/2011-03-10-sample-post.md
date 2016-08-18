@@ -26,6 +26,8 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### Body text
 
+示例页面
+
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
